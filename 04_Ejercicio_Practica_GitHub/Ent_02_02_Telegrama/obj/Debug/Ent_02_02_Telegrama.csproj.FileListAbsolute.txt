@@ -1,0 +1,10 @@
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\Ent_02_02_Telegrama\Ent_02_02_Telegrama\bin\Debug\Ent_02_02_Telegrama.exe.config
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\Ent_02_02_Telegrama\Ent_02_02_Telegrama\bin\Debug\Ent_02_02_Telegrama.exe
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\Ent_02_02_Telegrama\Ent_02_02_Telegrama\bin\Debug\Ent_02_02_Telegrama.pdb
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\Ent_02_02_Telegrama\Ent_02_02_Telegrama\obj\Debug\Ent_02_02_Telegrama.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\Ent_02_02_Telegrama\Ent_02_02_Telegrama\obj\Debug\Ent_02_02_Telegrama.Ent_02_02_Telegrama.resources
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\Ent_02_02_Telegrama\Ent_02_02_Telegrama\obj\Debug\Ent_02_02_Telegrama.Properties.Resources.resources
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\Ent_02_02_Telegrama\Ent_02_02_Telegrama\obj\Debug\Ent_02_02_Telegrama.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\Ent_02_02_Telegrama\Ent_02_02_Telegrama\obj\Debug\Ent_02_02_Telegrama.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\Ent_02_02_Telegrama\Ent_02_02_Telegrama\obj\Debug\Ent_02_02_Telegrama.exe
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\Entornos_2023\Ent_02_02_Telegrama\Ent_02_02_Telegrama\obj\Debug\Ent_02_02_Telegrama.pdb
